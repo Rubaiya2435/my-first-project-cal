@@ -1,0 +1,19 @@
+{
+  "name": "a6z5simple-calculator",
+  "version": "1.0.2",
+  "description": "This is simple functional calculator of typescript, javascript",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rubaiya",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
